@@ -311,7 +311,7 @@
     "strip-html-comments": "^1.0.0",
     "styled-components": "^5.3.5",
     "swr": "^2.2.4",
-    "unified": "^11.0.3",
+    "unified": "^11.0.4",
     "unist-util-visit": "^5.0.0",
     "url-template": "^3.0.0",
     "walk-sync": "^3.0.0"
